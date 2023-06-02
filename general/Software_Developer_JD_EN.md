@@ -1,11 +1,25 @@
-<base target="_blank">
-# Job Info:
 
-| Job Title    | Software Developer                                                                    |
-|--------------|---------------------------------------------------------------------------------------|
-| Company Name | [Eximprod Engineering](https://www.epg.ro)                                            |
-| Job Location | Bucharest, [ISPE Building](https://goo.gl/maps/ajkQnq77YPJAxhPF9?coh=178572&entry=tt) |
-| Job Type     | Full-time or Part-time (Internship)                                                   |
+# Job Info:
+<table>
+  <tbody>
+    <tr>
+      <td><b>Job Title</b></td>
+      <td>Software Developer</td>
+    </tr>
+    <tr>
+      <td><b>Company Name</b></td>
+      <td><a href="https://www.epg.ro" target="_blank">Eximprod Engineering</a></td>
+    </tr>
+    <tr>
+      <td><b>Job Location</b></td>
+      <td>Bucharest, <a href="https://goo.gl/maps/ajkQnq77YPJAxhPF9?coh=178572&entry=tt" target="_blank">ISPE Building</a></td>
+    </tr>
+    <tr>
+      <td><b>Job Type</b></td>
+      <td>Full-time or Part-time (Internship)</td>
+    </tr>
+  </tbody>
+</table>
 
 # Job Description:
 We are seeking a skilled and motivated Software Developer to join our dynamic team. As a Software Developer, you will play a vital role in designing, developing, and maintaining software applications that meet the needs of our organization. You will collaborate with cross-functional teams, including product managers, designers, and other developers, to deliver high-quality software solutions.

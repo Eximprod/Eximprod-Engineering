@@ -1,3 +1,4 @@
+<base target="_blank">
 # Job Info:
 
 | Job Title    | Software Developer                                                                    |

@@ -1,4 +1,4 @@
-# Informatii despre loc de munca:
+# Informatii despre loc de munca
 <table>
   <tbody>
     <tr>

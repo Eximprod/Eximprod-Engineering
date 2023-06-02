@@ -1,5 +1,5 @@
 
-# Job Info:
+# Job Info
 <table>
   <tbody>
     <tr>
@@ -21,10 +21,10 @@
   </tbody>
 </table>
 
-# Job Description:
+# Job Description
 We are seeking a skilled and motivated Software Developer to join our dynamic team. As a Software Developer, you will play a vital role in designing, developing, and maintaining software applications that meet the needs of our organization. You will collaborate with cross-functional teams, including product managers, designers, and other developers, to deliver high-quality software solutions.
 
-# Responsibilities:
+# Responsibilities
 1. Participate in the entire software development life cycle, including requirements gathering, design, implementation, testing, and deployment
 2. Collaborate with cross-functional teams to define software specifications and provide input on technical feasibility and implementation strategies
 3. Write clean, efficient, and maintainable code using best practices and coding standards
@@ -36,7 +36,7 @@ We are seeking a skilled and motivated Software Developer to join our dynamic te
 9. Document software designs, processes, and procedures to facilitate knowledge sharing and maintain a comprehensive software repository
 10. Contribute to continuous improvement efforts by identifying opportunities for process enhancements and suggesting innovative solutions
 
-# Qualifications:
+# Qualifications
 1. Experience in at least one programming language (e.g., C/C++, C#, .NET) and familiarity with related frameworks and tools.
 2. Thorough understanding of Object-Oriented Programming (OOP) principles and Design Patterns
 3. Solid knowledge of Linux operating systems and experience with containerization using Docker

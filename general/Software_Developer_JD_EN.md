@@ -2,8 +2,8 @@
 
 | Job Title    | Software Developer                                                                    |
 |--------------|---------------------------------------------------------------------------------------|
-| Company Name | <a href="(https://www.epg.ro)" target="_blank">Eximprod Engineering</a>               |
-| Job Location | Bucharest, <a href="(https://goo.gl/maps/ajkQnq77YPJAxhPF9?coh=178572&entry=tt)" target="_blank">ISPE Building</a> |
+| Company Name | [Eximprod Engineering](https://www.epg.ro)                                            |
+| Job Location | Bucharest, [ISPE Building](https://goo.gl/maps/ajkQnq77YPJAxhPF9?coh=178572&entry=tt) |
 | Job Type     | Full-time or Part-time (Internship)                                                   |
 
 # Job Description:

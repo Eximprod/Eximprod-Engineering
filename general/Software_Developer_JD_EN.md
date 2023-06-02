@@ -48,4 +48,4 @@ To apply, please submit your resume, along with a cover letter highlighting your
 
 We are waiting for your CV accompanied by a letter of intent to the address: **[recrutare@eximprod.ro](mailto:recrutare@eximprod.ro)**
 
-For more details related to the company's activity, visit the website: **[www.epg.ro](www.epg.ro)**
+For more details related to the company's activity, visit the website: **[www.epg.ro](https://www.epg.ro)**
